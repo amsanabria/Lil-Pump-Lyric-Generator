@@ -1,7 +1,7 @@
 # Lil-Pump-Lyric-Generator
 Este programa usa python 3.7.9
 
-Entrena basándose en el input de lyrics.txt asi que puedes cabmbiar las lyrics para que imiten a cualquier otro artiste, pero Lil Pump es mucho Lil Pump
+Entrena basándose en el input de 'lyrics.txt' asi que puedes cambiar las lyrics para que imiten a cualquier otro artiste, pero Lil Pump es mucho Lil Pump
 
 Como instalar:
   1. Crea una carpeta donde quieras que vaya el Lil-Pump-Lyric-Generator
