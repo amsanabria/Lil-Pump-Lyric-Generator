@@ -16,11 +16,19 @@ Como instalar:
       ```
       
  Como usar:
-  1. Ejecuta Train.py:
+  1. Ejecuta LilPump.py:
      ```
-     python Train.py
+     python LilPump.py
      ```
   2. Elige si quieres entrenar la RN o generar lyrics (las lyrics se guardarán en output.txt aparte de salir por consola).
   3. Se recomienda entrenar la RN por un mínimo de 70 epochs, ya que si no el output sera 'LKJSIUSAFNSAfkskfkk bitch asjfasdjpakdñ'
  
-No se como restaurar los valores de la RN asi que si cierras el programa vas a perder el progreso del entrenamiento ajjaj.
+Descargar modelo pre-entrenado
+  1. Descarga el modelo de Mega
+     ``` 
+     https://mega.nz/folder/6B8EiDTI#PhttcLJAFW6u1JL-bccgnQ
+     ```
+  2. Se descargarán 2 archivos pretrained.index y pretrained.data-00000-of-00001
+  3. Dejalos en la raiz del proyecto
+  4. En el menú elige 'Load Pretrained Model'
+  5. El modelo ya está cargado, sigue entrenándolo o genera alguna lyric!
